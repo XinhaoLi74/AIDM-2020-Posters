@@ -314,6 +314,8 @@ Authors
 Brian C. Barnes, Alex D. Casey, Betsy M. Rice, Steven F. Son
 
 ### Deep Learning of Activation Energies
+[ChemRxiv](https://chemrxiv.org/articles/Deep_Learning_of_Activation_Energies/11852166)
+
 Authors
 
 Colin A. Grambow, Lagnajit Pattanaik, William H. Green
