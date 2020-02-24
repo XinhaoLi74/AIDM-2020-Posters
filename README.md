@@ -373,6 +373,8 @@ Authors
 Lei Jia, Yax Sun, Alex Jacobitz, Vladimir Razinkov, Marissa Mock, Nic Angell, Peter Grandsard, BAT team
 
 ### Benchmarking the Synthesizability of Molecules Proposed via de novo Generative Models
+[arXiv](https://arxiv.org/pdf/2002.07007.pdf)
+
 Authors
 
 Wenhao Gao, Connor Coley, Klavs Jensen
