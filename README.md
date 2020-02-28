@@ -231,6 +231,8 @@ Authors
 Kenichiro Takaba
 
 ### Performance of Reaction Datasets in Machine Learning Approaches to Synthesis Planning and Use in Restricted Domains
+[Chemical Science](https://pubs.rsc.org/en/content/articlelanding/2020/sc/c9sc04944d#!divAbstract) | [Github](https://github.com/reymond-group/CASP-and-dataset-performance)
+
 Authors
 
 Amol Thakkar, Jean-Louis Reymond, Ola Engkvist, Esben Jannik Bjerrum
